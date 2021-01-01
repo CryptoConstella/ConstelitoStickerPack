@@ -1,2 +1,2 @@
-# ConstelitoStickerPack
-Constella Sticker Pack - Constelito!
+# ConstellitoStickerPack
+Constella Sticker Pack - Constellito!
